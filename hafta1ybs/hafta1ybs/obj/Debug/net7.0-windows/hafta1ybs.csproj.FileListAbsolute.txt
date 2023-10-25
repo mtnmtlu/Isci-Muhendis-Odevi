@@ -1,0 +1,16 @@
+C:\Users\metin\OneDrive\Masaüstü\ybs\hafta1ybs\hafta1ybs\bin\Debug\net7.0-windows\hafta1ybs.exe
+C:\Users\metin\OneDrive\Masaüstü\ybs\hafta1ybs\hafta1ybs\bin\Debug\net7.0-windows\hafta1ybs.deps.json
+C:\Users\metin\OneDrive\Masaüstü\ybs\hafta1ybs\hafta1ybs\bin\Debug\net7.0-windows\hafta1ybs.runtimeconfig.json
+C:\Users\metin\OneDrive\Masaüstü\ybs\hafta1ybs\hafta1ybs\bin\Debug\net7.0-windows\hafta1ybs.dll
+C:\Users\metin\OneDrive\Masaüstü\ybs\hafta1ybs\hafta1ybs\bin\Debug\net7.0-windows\hafta1ybs.pdb
+C:\Users\metin\OneDrive\Masaüstü\ybs\hafta1ybs\hafta1ybs\obj\Debug\net7.0-windows\hafta1ybs.Form1.resources
+C:\Users\metin\OneDrive\Masaüstü\ybs\hafta1ybs\hafta1ybs\obj\Debug\net7.0-windows\hafta1ybs.csproj.GenerateResource.cache
+C:\Users\metin\OneDrive\Masaüstü\ybs\hafta1ybs\hafta1ybs\obj\Debug\net7.0-windows\hafta1ybs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metin\OneDrive\Masaüstü\ybs\hafta1ybs\hafta1ybs\obj\Debug\net7.0-windows\hafta1ybs.AssemblyInfoInputs.cache
+C:\Users\metin\OneDrive\Masaüstü\ybs\hafta1ybs\hafta1ybs\obj\Debug\net7.0-windows\hafta1ybs.AssemblyInfo.cs
+C:\Users\metin\OneDrive\Masaüstü\ybs\hafta1ybs\hafta1ybs\obj\Debug\net7.0-windows\hafta1ybs.csproj.CoreCompileInputs.cache
+C:\Users\metin\OneDrive\Masaüstü\ybs\hafta1ybs\hafta1ybs\obj\Debug\net7.0-windows\hafta1ybs.dll
+C:\Users\metin\OneDrive\Masaüstü\ybs\hafta1ybs\hafta1ybs\obj\Debug\net7.0-windows\refint\hafta1ybs.dll
+C:\Users\metin\OneDrive\Masaüstü\ybs\hafta1ybs\hafta1ybs\obj\Debug\net7.0-windows\hafta1ybs.pdb
+C:\Users\metin\OneDrive\Masaüstü\ybs\hafta1ybs\hafta1ybs\obj\Debug\net7.0-windows\hafta1ybs.genruntimeconfig.cache
+C:\Users\metin\OneDrive\Masaüstü\ybs\hafta1ybs\hafta1ybs\obj\Debug\net7.0-windows\ref\hafta1ybs.dll
